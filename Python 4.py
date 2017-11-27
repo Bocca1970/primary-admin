@@ -1,5 +1,6 @@
 
-# ------- Python Conversion II --------
+# --------------- Python 4 ---------------
+# --------- Konverzija - Nizovi ----------
 
 l = set([2, 4, 6])
 print(type(l)) # Konverzija uredjenog skupa 'list' u neuredjeni skup 'set'

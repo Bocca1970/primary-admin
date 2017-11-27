@@ -1,5 +1,6 @@
 
-# ------- Python Conversion I --------
+# --------------- Python 3 ---------------
+# --------- Konverzija - Brojevi ---------
 
 f = int(43.54)
 print(type(f)) # Konverzija realnog broja u celi broj

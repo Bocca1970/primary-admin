@@ -1,5 +1,6 @@
 
-# ------- Python Numbers --------
+# --------------- Python 1 ---------------
+# ------- Tipovi podataka - Brojevi --------
 
 print(type(44)) # integer - svaki celi broj, bilo negativan bilo pozitivan, ukljucujuci 0
 # class 'int'

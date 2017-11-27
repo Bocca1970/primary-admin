@@ -1,5 +1,6 @@
 
-# ------- Python Sequences --------
+# --------------- Python 2 ---------------
+# ------- Tipovi podataka - Nizovi --------
 
 s = '12asd34KL'
 print(type(s)) # string - konacni uredjeni skup koji se nalazi izmedju navodnika

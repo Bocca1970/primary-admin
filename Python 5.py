@@ -1,5 +1,6 @@
 
-# # ------- Python Arithmetics --------
+# --------------- Python 5 ---------------
+# ---------- Osnovi Aritmetike -----------
 
 n = int(input('Unesi vrednost n: '))
 m = int(input('Unesi vrednost m: '))
