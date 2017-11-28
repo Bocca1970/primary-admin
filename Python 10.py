@@ -15,7 +15,7 @@ print (operator.and_(x, y))
 print ("binarni operator logicko ili - x|y je: ", end="")
 print (operator.or_(x, y))
 
-# Unarni operator negacije ~x:
+# Unarni operator negacije (~x):
 print ("Unarni operator negacije - ~x: ", end="")
 print (operator.not_(x))
 
