@@ -2,7 +2,7 @@
 # --------------- Python 8 ---------------
 # ------- Proveri vrednost izraza --------
 
-print ("Unesi brojeve za proveru izraza:")
+print ("Unesi brojeve za izracunavanje vrednosti brojevnog izraza:")
 print ("\r")
 print ("a * (b + n) / m = :")
 print ('\r')
