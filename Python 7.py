@@ -1,6 +1,6 @@
 
-# --------------- Python 7 ---------------
-# ----------- Operatori dodele -----------
+# ---------------- Python 7 ----------------
+# ------------ Operatori dodele ------------
 
 n = int(input('Unesi vrednost n: '))
 
