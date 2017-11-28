@@ -17,5 +17,5 @@ elif (y >= x) and (y >= z):
 else:
     izaberi = z
 
-print("Najveci broj je ----- ",izaberi)
+print("Broj ----- ",izaberi, " ----- ima najvecu vrednost!")
 
