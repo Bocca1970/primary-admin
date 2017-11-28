@@ -5,6 +5,8 @@
 n = int(input('Unesi vrednost n: '))
 m = int(input('Unesi vrednost m: '))
 
+# Cetiri osnovne aritmeticke operacije:
+
 # Sabiranje:
 print(n, '+', m, '=', n + m)
 
