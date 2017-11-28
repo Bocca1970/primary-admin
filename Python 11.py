@@ -1,6 +1,6 @@
 
-# --------------- Python 11 ---------------
-# -------- Izracunavanje faktorijela ------
+# --------------- Python 11 -----------------
+# -------- Izracunavanje faktorijela --------
 
 print("---------- Izracunaj faktorijel ----------")
 print('\r')
