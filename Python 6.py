@@ -1,6 +1,6 @@
 
-# --------------- Python 6 ---------------
-# --------- Operatori Poredjenja ---------
+# ---------------- Python 6 ----------------
+# ---------- Operatori Poredjenja ----------
 
 n = int(input('Unesi vrednost n: '))
 m = int(input('Unesi vrednost m: '))
