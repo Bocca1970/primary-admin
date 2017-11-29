@@ -1,5 +1,5 @@
 
-# --------------- Python 16 ---------------
+# --------------- Python 19 ---------------
 # ---- Pregled Matematickih funkcija I ----
 
 import math
