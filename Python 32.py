@@ -8,4 +8,4 @@ a = float(input("Unesi vrednost a: "))
 b = float(input("Unesi vrednost b: "))
 
 pkvadBinoma = (a**2 + 2*a*b + b**2)
-print("Kvadrat binoma je: ", pkvadBinoma)
+print("(a + b) ** 2 = ", pkvadBinoma)
