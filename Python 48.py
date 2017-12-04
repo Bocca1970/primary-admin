@@ -1,6 +1,6 @@
 
 # --------------- Python 48 ---------------
-# ---- Racunske operacije sa razlomcima ---
+# -------- Operacije sa razlomcima --------
 
 # Sabiranje, oduzimanje, mnozenje i deljenje razlomaka 
 
