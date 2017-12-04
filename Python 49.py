@@ -1,6 +1,6 @@
 
-# --------------- Python 49 ---------------
-# - Procentualno povecanje/smanjenje cena -
+# --------------- Python 49 ----------------
+# Izracunavanje povecanja/smanjenja cena u %
 
 # Povecanje cena u % = 100*(Nova cena-Stara cena)/Stara cena
 # Smanjenje cena u % = 100*(Stara cena-Nova cena)/Stara cena
