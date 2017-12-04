@@ -16,4 +16,4 @@ def stepen(a, b, c):
     else:
         print("{0} na {2} / {1} na {2} = {3}".format(a, b, c, razlika))
         
-stepen(a, b, c)
+stepen(a, b, c) 
