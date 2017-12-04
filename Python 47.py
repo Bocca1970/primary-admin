@@ -1,6 +1,6 @@
 
 # --------------- Python 47 ---------------
-# ----- Tabelarni pregled stepenovanja ----
+# ----- Tabelarni pregled eksponenata -----
 
 # Tabelarni pregled stepenovanja eksponentom od 2 do 10
 
